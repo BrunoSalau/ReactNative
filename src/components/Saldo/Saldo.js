@@ -39,7 +39,6 @@ const style = StyleSheet.create({
   },
   saldo:{
     color:'#6fd440',
-    fontWeight: 'bold',
     fontSize: 25
   },
   gastos:{
